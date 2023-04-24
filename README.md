@@ -1,10 +1,10 @@
 ### Seja bem vindo ao meu Git!!! 👋
 Pessoal que veio atrás do **Github Stats: você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance).
-
+##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ventura-Jr&count_private=true&theme=transparent&show_icons=true)](https://github.com/Ventura-Jr/github-readme-stats)
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ventura-jr&theme=transparent&langs_count=10)](https://github.com/ventura-jr/github-readme-stats)
-</br>
+
 <!-- indicar um repositorio para ficar em destaque
 <a href="https://github.com/ventura-jr/DIO-BANCOPAN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ventura-jr&theme=transparent&repo=DIO-BANCOPAN" />
@@ -14,7 +14,8 @@ Pessoal que veio atrás do **Github Stats: você pode adicionar a sua própria, 
 </a> -->
 
 
-<div style="display: inline_block"><br>
+## 💻 Tech Stack: 
+<div style="display: inline_block">
   <img align="center" alt="Ventura-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ventura-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ventura-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,6 +28,10 @@ Pessoal que veio atrás do **Github Stats: você pode adicionar a sua própria, 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/eng.venturajr/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ventura-jr/)
+
+## 
+[![](https://visitcount.itsvg.in/api?id=ventura-jr&label=Visitantes&color=12&icon=4&pretty=true)](https://visitcount.itsvg.in)
+
 
 
 <!--
