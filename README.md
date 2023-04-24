@@ -1,4 +1,16 @@
-### Hi there 👋
+### Seja bem vindo ao meu Git!!! 👋
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ventura-Jr&count_private=true&theme=transparent&show_icons=true)](https://github.com/Ventura-Jr/github-readme-stats)
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ventura-jr&theme=transparent&langs_count=10)](https://github.com/ventura-jr/github-readme-stats)
+</br>
+<a href="https://github.com/ventura-jr/DIO-BANCOPAN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ventura-jr&theme=transparent&repo=DIO-BANCOPAN" />
+</a>
+<a href="https://github.com/ventura-jr/script-java-estrut-dados">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ventura-jr&theme=transparent&repo=script-java-estrut-dados" />
+</a>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ventura-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -11,7 +23,6 @@
   <img align="right" alt="Ventura-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ventura-Jr)](https://github.com/ventura-jr/github-readme-stats)
 
 
 
