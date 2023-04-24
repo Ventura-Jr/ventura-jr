@@ -23,11 +23,14 @@ Pessoal que veio atrás do **Github Stats: você pode adicionar a sua própria, 
   <img align="center" alt="Ventura-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ventura-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ventura-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Ventura-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-</div>
+  <!--<img align="right" alt="Ventura-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+--></div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/eng.venturajr/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ventura-jr/)
+
+![snake gif](https://github.com/ventura-jr/ventura-jr/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/devalexandre/devalexandre/blob/output/github-contribution-grid-snake.svg)
 
 ## 
 [![](https://visitcount.itsvg.in/api?id=ventura-jr&label=Visitantes&color=12&icon=4&pretty=true)](https://visitcount.itsvg.in)
