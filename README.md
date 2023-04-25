@@ -5,7 +5,7 @@ Pessoal que veio atrás do **Github Stats: você pode adicionar a sua própria, 
 ###
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0710a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ventura+Jr;I'm+38+years+old;I'm+from+Brazil;I+Graduated+enginer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ventura-jr&bg_color=0d1117&color=5442f5&line=f0710a&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ventura-jr&bg_color=0d1117&color=5442f5&line=f0710a&point=ff9494&area=true&hide_border=true)]
 
 ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ventura-Jr&count_private=true&theme=transparent&show_icons=true)](https://github.com/Ventura-Jr/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ventura-jr&theme=transparent&layout=compact&langs_count=10)](https://github.com/ventura-jr/github-readme-stats)
