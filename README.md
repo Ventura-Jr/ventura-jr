@@ -8,7 +8,7 @@ Pessoal que veio atrás do **Github Stats: você pode adicionar a sua própria, 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ventura-jr&bg_color=0d1117&color=5442f5&line=f0710a&point=ff9494&area=true&hide_border=true)]
 
 ##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ventura-Jr&count_private=true&theme=transparent&show_icons=true)](https://github.com/Ventura-Jr/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ventura-jr&theme=transparent&layout=compact&langs_count=10)](https://github.com/ventura-jr/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ventura-Jr&count_private=true&theme=transparent&show_icons=true)] [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ventura-jr&theme=transparent&layout=compact&langs_count=10)](https://github.com/ventura-jr/github-readme-stats)
 
 <!-- indicar um repositorio para ficar em destaque
 <a href="https://github.com/ventura-jr/DIO-BANCOPAN">
