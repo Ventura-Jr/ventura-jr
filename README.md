@@ -34,8 +34,8 @@ Pessoal que veio atrás do **Github Stats: você pode adicionar a sua própria, 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/eng.venturajr/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ventura-jr/)
 
-<!--![snake gif](https://github.com/ventura-jr/ventura-jr/blob/output/github-contribution-grid-snake.svg)-->
-![snake gif](https://github.com/devalexandre/devalexandre/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ventura-jr/ventura-jr/blob/output/github-contribution-grid-snake.svg)
+<!--![snake gif](https://github.com/devalexandre/devalexandre/blob/output/github-contribution-grid-snake.svg)-->
 
 ## 
 ![](https://visitcount.itsvg.in/api?id=ventura-jr&label=Visitantes&color=12&icon=4&pretty=true)
