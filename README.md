@@ -3,7 +3,7 @@ Pessoal que veio atrás do **Github Stats: você pode adicionar a sua própria, 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f0710a&height=120&section=header"/>
 
 ###
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0710a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ventura+Jr;I'm+38+years+old;I'm+from+Brazil;I+Graduated+enginer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0710a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ventura+Jr;I'm+38+years+old;I'm+from+Brazil;I+Graduated+enginer;Be+Welcome!+:%29)]
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ventura-jr&bg_color=0d1117&color=5442f5&line=f0710a&point=ff9494&area=true&hide_border=true)]
 
