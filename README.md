@@ -38,7 +38,7 @@ Pessoal que veio atrás do **Github Stats: você pode adicionar a sua própria, 
 ![snake gif](https://github.com/devalexandre/devalexandre/blob/output/github-contribution-grid-snake.svg)
 
 ## 
-[![](https://visitcount.itsvg.in/api?id=ventura-jr&label=Visitantes&color=12&icon=4&pretty=true)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=ventura-jr&label=Visitantes&color=12&icon=4&pretty=true)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f0710a&height=120&section=footer"/>
 
