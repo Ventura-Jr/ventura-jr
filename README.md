@@ -7,7 +7,7 @@ Pessoal que veio atrás do **Github Stats: você pode adicionar a sua própria, 
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ventura-jr&bg_color=0d1117&color=5442f5&line=f0710a&point=ff9494&area=true&hide_border=true)
 
-##
+## 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ventura-Jr&count_private=true&theme=transparent&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ventura-jr&theme=transparent&layout=compact&langs_count=10)
 
 <!-- indicar um repositorio para ficar em destaque
@@ -18,27 +18,33 @@ Pessoal que veio atrás do **Github Stats: você pode adicionar a sua própria, 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ventura-jr&theme=transparent&repo=script-java-estrut-dados" />
 </a> -->
 
-
 ## 💻 Tech Stack: 
 <div style="display: inline_block">
   <img align="center" alt="Ventura-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ventura-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ventura-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Ventura-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ventura-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Ventura-PS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Ventura-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ventura-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ventura-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Ventura-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Ventura-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  
+  
+  
   <!--<img align="right" alt="Ventura-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 --></div>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/eng.venturajr/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ventura-jr/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ventura-jr/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/eng.venturajr/) 
 
-![snake gif](https://github.com/ventura-jr/ventura-jr/blob/output/github-contribution-grid-snake.svg)
+<!--![snake gif](https://github.com/ventura-jr/ventura-jr/blob/output/github-contribution-grid-snake.svg)-->
 <!--![snake gif](https://github.com/devalexandre/devalexandre/blob/output/github-contribution-grid-snake.svg)-->
 
 ## 
-![](https://visitcount.itsvg.in/api?id=ventura-jr&label=Visitantes&color=12&icon=4&pretty=true)
+![](https://visitcount.itsvg.in/api?id=ventura-jr&label=Views&color=12&icon=4&pretty=true)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f0710a&height=120&section=footer"/>
 
